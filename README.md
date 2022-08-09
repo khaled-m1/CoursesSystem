@@ -1,5 +1,5 @@
 # CoursesSystem 🎧
-## System for Courses Manage
+## System for Manage Courses 
 
 Backend Spring boot.
 - ✨ just for training ✨
